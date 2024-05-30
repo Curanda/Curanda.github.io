@@ -1,0 +1,64 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Golden Circle",
+      "img": "https://github.com/Curanda/Curanda.github.io/blob/main/img-card-gc.jpg?raw=true",
+      "description": "Golden Circle is the most popular day tour in Iceland. It includes three main stops: Thingvellir National Park, Geysir Geothermal Area and Gullfoss Waterfall. READ MORE...",
+      "longText": "Explore Iceland's majestic Golden Circle, a 190-mile loop bursting with natural wonders and historical significance. Journey from Reykjavík, delving into Thingvellir National Park, a UNESCO World Heritage Site. Walk the dramatic rift valley where the Eurasian and North American tectonic plates diverge, creating a landscape unlike any other.\n\nNext, witness the power of Mother Nature at the Geysir Geothermal Area. Watch Strokkur erupt every few minutes, sending a towering plume of water skyward. Explore bubbling mud pools and technicolor steam vents, a testament to Iceland's geothermal energy.\n\nFinally, be mesmerized by Gullfoss, the Golden Waterfall. This iconic cascade plunges 100 feet into a thunderous canyon, creating a breathtaking spectacle. Feel the spray on your face as you marvel at its raw power and beauty.\n\nThe Golden Circle offers a taste of Iceland's diverse wonders in a single day. This unforgettable tour is perfect for nature enthusiasts and history buffs alike. Don't miss your chance to experience it!",
+      "mainStops": ["Thingvellir National Park", "Geysir Geothermal Area", "Gullfoss Waterfall"],
+      "needToBring": ["Warm and waterproof clothing"],
+      "provided": ["Expert guide", "Transportation", "Entrance fees"]
+    },
+    {
+      "id": 2,
+      "name": "Northern Lights",
+      "img": "https://github.com/Curanda/Curanda.github.io/blob/main/img-card-nl.jpg?raw=true",
+      "description": "Let us take you out to see the beautiful auroras, dancing in the sky. Hot Chocolate, snacks and professional photos included. READ MORE...",
+      "longText": "Embark on a mystical adventure to witness the captivating Aurora Borealis dance across the Icelandic night sky. Our comfortable tour bus will whisk you away from Reykjavik's light pollution, venturing into the heart of the countryside where darkness reigns.\n\nYour expert guide will navigate based on real-time aurora forecasts, maximizing your chances of a spectacular light show. As twilight deepens, keep your eyes peeled for the first wisps of green, purple, and white paint the canvas of the night.\n\nLearn about the science behind this natural phenomenon and Icelandic folklore surrounding the Northern Lights. Bundle up, sip on hot cocoa under the starry sky, and be mesmerized by the ever-changing celestial ballet. This unforgettable tour is your chance to witness nature's most dazzling light display.",
+      "mainStops": ["We go as far as the duration of the tour allows us to go in order to see the Northern Lights."],
+      "needToBring": ["Warm clothing", "Warm shoes", "Hat", "Gloves"],
+      "provided": ["Hot chocolate", "Snacks", "Professional photos", "Expertise in finding the Northern Lights"]
+    },
+    {
+      "id": 3,
+      "name": "South Coast",
+      "img": "https://github.com/Curanda/Curanda.github.io/blob/main/img-card-sc.jpg?raw=true",
+      "description": "South Coast is a popular day tour in Iceland. It includes two main stops: Seljalandsfoss Waterfall and Reynisfjara Black Sand Beach. READ MORE...",
+      "longText": "Buckle up for a journey along Iceland's breathtaking South Coast, a wonderland of dramatic landscapes. Our adventure begins in Reykjavik, traversing vast lava fields and charming villages. Witness the power of cascading waterfalls – Seljalandsfoss, where you can peek behind the curtain of water, and Skógafoss, a mighty giant sending a spray that rainbows dance through.\n\nNext, step onto Reynisfjara, a black sand beach unlike any other. Volcanic power sculpted this dramatic coastline, where basalt columns stand guard like sentinels. Keep an eye out for playful puffins nesting in the nearby cliffs. The South Coast offers a kaleidoscope of Icelandic wonders – waterfalls, glaciers, black sand beaches, and more. This unforgettable tour will leave you breathless with its raw beauty.",
+      "mainStops": ["Seljalandsfoss Waterfall", "Skogafoss waterfall", "Reynisfjara Black Sand Beach", "Picturesque town of Vik"],
+      "needToBring": ["Warm and waterproof clothing"],
+      "provided": ["Expert guide", "Transportation", "Entrance fees"]
+    },
+    {
+      "id": 4,
+      "name": "Snæfellsnes Peninsula",
+      "img": "https://raw.githubusercontent.com/Curanda/Curanda.github.io/main/img-card-snaefellsnes.webp",
+      "description": "Snæfellsnes Peninsula is a popular day tour in Iceland. It includes two main stops: Kirkjufell Mountain and Djúpalónssandur Black Sand Beach. READ MORE...",
+      "longText": "Unveiling Iceland's 'Miniature Iceland,' embark on a journey through the Snæfellsnes Peninsula, a land bursting with diverse beauty. Nicknamed for its microcosm of Icelandic landscapes, Snæfellsnes offers dramatic coastlines, volcanic craters, and charming fishing villages.\n\nYour adventure begins in Reykjavik, as you travel west towards the majestic Snæfellsjökull glacier-capped volcano, a setting for Jules Verne's 'Journey to the Center of the Earth.' Marvel at its snow-capped peak, a constant presence throughout the day.\n\nNext, explore the charming village of Arnarstapi, known for its natural rock formations and sea arches. Hike along the rugged coastline, spotting playful seals basking on the rocks. Continue to Kirkjufell, a photogenic mountain nicknamed 'Arrowhead Mountain' for its distinctive shape.\n\nWitness the power of nature at Djúpalónssandur, a black sand beach scattered with smooth, basalt pebbles, remnants of volcanic eruptions. Explore the nearby shipwreck remnants, a testament to the area's wild beauty.\n\nSnæfellsnes offers a delightful smorgasbord of Icelandic wonders. This unforgettable tour will leave you wanting to explore every corner of this magical peninsula.",
+      "mainStops": ["Seal colony", "Lonsdrangar rock towers and scenic cliffs", "Arnarstapi village", "Kirkjufell mountain", "Djúpalónssandur black sand beach"],
+      "needToBring": ["Warm and waterproof clothing"],
+      "provided": ["Expert guide", "Transportation", "Entrance fees"]
+    },
+    {
+      "id": 5,
+      "name": "Volcano Tour & Blue Lagoon",
+      "img": "https://raw.githubusercontent.com/Curanda/Curanda.github.io/main/img-card-volcano.webp",
+      "description": "Volcano Tour & Blue Lagoon is a popular day tour in Iceland. It includes two main stops: Fagradalsfjall Volcano and Blue Lagoon. READ MORE...",
+      "longText": "Unleash your inner explorer and soothe your soul on this action-packed tour. Combine the raw power of an Icelandic volcano hike with the luxurious serenity of the Blue Lagoon in a single unforgettable day.\n\nOur adventure starts in Reykjavik, venturing towards the Reykjanes Peninsula, a land sculpted by fire. Embark on a guided hike, traversing otherworldly lava fields and feeling the earth's geothermal energy beneath your feet. Witness the dramatic aftermath of recent eruptions, with smoldering craters and stark landscapes painting a picture of volcanic fury.\n\nAfter conquering the hike, soothe your tired muscles and exhilarated spirit at the Blue Lagoon. Sink into the milky-turquoise waters, rich in silica and minerals, renowned for their therapeutic properties. Pamper yourself with a silica mud mask, letting the geothermal warmth melt away any lingering tension.\n\nThis unique tour offers a perfect balance of adventure and relaxation. Witness the raw power of Icelandic volcanoes and then indulge in the rejuvenating embrace of the Blue Lagoon. Don't miss this chance to experience fire and water, two defining forces of Iceland, in one incredible day!",
+      "mainStops": ["Fagradalsfjall Volcano", "Blue Lagoon"],
+      "needToBring": ["Warm and waterproof clothing", "Hiking shoes", "Swimsuit"],
+      "provided": ["Expert guide", "Transportation", "Entrance fees", "Blue Lagoon entrance ticket"]
+    },
+    {
+      "id": 6,
+      "name": "Airport Transfer",
+      "img": "https://raw.githubusercontent.com/Curanda/Curanda.github.io/main/img-card-airport-1.webp",
+      "description": "Private airport transfer. READ MORE...",
+      "longText": "Skip the taxi lines and embrace comfort with a private airport transfer. Our professional driver awaits you upon arrival at Keflavík International Airport, ready to whisk you directly to your Reykjavik accommodation. This personalized service ensures a stress-free start (or end) to your Icelandic adventure. Relax in a spacious vehicle with ample luggage space, and enjoy the scenic Icelandic landscape as your driver navigates the route. Whether you're a solo traveler, a group, or a family, a private transfer provides a convenient and comfortable solution for your arrival or departure.",
+      "mainStops": ["Keflavik International Airport", "Reykjavik accommodation"],
+      "needToBring": [""],
+      "provided": ["Private driver", "Comfortable vehicle", "Luggage assistance"]
+    }
+  ]
+}
