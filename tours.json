@@ -1,5 +1,5 @@
 {
-  "tours": [
+  [
     {
       "id": 1,
       "name": "Golden Circle",
@@ -60,5 +60,4 @@
       "needToBring": [""],
       "provided": ["Private driver", "Comfortable vehicle", "Luggage assistance"]
     }
-  ]
 }
